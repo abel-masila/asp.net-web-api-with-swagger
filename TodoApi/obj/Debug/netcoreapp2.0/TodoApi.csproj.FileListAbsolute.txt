@@ -1,0 +1,12 @@
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csprojResolveAssemblyReference.cache
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\mobib\Documents\Visual Studio 2017\Projects\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.xml
